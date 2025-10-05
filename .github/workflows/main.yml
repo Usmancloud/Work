@@ -8,6 +8,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     
-    steps:
-    - name: Good
-    run: echo"Hello!"
+     steps:
+        - name: Good
+         run: echo "Hello!"
+
+    
